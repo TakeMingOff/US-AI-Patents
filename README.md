@@ -28,6 +28,9 @@ This repository contains the notebooks used to reconstruct tables and figures fr
 - **Notebook D** · Text Classification using Transformer-Based Models  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AGiy2zggSVMwO7OYPaOujw9hHN6Jb7mj?usp=sharing)
 
+- **Notebook E** · Text Classification with New Transformer Models 
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TkSn7dt2TVXOhLVwmLP5Z0cqIORPVPN1)
+
 - **Notebook X** · Summary and Comparison of Classification Approaches  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U9SN_vWDveJhsb_RbqxGH0DDMqTui4Y0?usp=sharing)
 
